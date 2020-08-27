@@ -1,2 +1,3 @@
 # SupplyMissionC23
+Just drop all the supplies and medical kits inside a designated red drop zone in the middle of a zombieapocalpyse ..... 
 SupplyMissionC23
